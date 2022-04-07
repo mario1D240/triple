@@ -19,3 +19,12 @@ senpai-angry
 spirit
 bf-pixel-opponent
 pico-player
+bf-invert
+eggy
+gf_gone
+P3-bf
+P3-bf-flip
+sonic-beast
+sonic-beast-invert
+tail
+knux
