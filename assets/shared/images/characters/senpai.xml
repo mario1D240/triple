@@ -1,64 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <TextureAtlas imagePath="senpai.png">
-
-
-<SubTexture name="exe Down0000" x="0" y="0" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
-<SubTexture name="exe Down0001" x="804" y="0" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
-<SubTexture name="exe Down0002" x="1608" y="0" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
-<SubTexture name="exe Down0003" x="2412" y="0" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
-<SubTexture name="exe Down0004" x="3216" y="0" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
-<SubTexture name="exe Down0005" x="4020" y="0" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
-<SubTexture name="exe Down0006" x="4824" y="0" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
-<SubTexture name="exe Down0007" x="0" y="804" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
-<SubTexture name="exe Down0008" x="804" y="804" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
-<SubTexture name="exe Idle0000" x="1608" y="804" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
-<SubTexture name="exe Idle0001" x="2412" y="804" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
-<SubTexture name="exe Idle0002" x="3216" y="804" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
-<SubTexture name="exe Idle0003" x="4020" y="804" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
-<SubTexture name="exe Idle0004" x="4824" y="804" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
-<SubTexture name="exe Idle0005" x="0" y="1608" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
-<SubTexture name="exe Idle0006" x="804" y="1608" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
-<SubTexture name="exe Idle0007" x="1608" y="1608" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
-<SubTexture name="exe Idle0008" x="2412" y="1608" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
-<SubTexture name="exe Idle0009" x="3216" y="1608" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
-<SubTexture name="exe Idle0010" x="4020" y="1608" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
-<SubTexture name="exe Idle0011" x="4824" y="1608" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
-<SubTexture name="exe Laugh0000" x="0" y="2412" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
-<SubTexture name="exe Laugh0001" x="804" y="2412" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
-<SubTexture name="exe Laugh0002" x="1608" y="2412" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
-<SubTexture name="exe Laugh0003" x="2412" y="2412" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
-<SubTexture name="exe Laugh0004" x="3216" y="2412" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
-<SubTexture name="exe Laugh0005" x="4020" y="2412" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
-<SubTexture name="exe Laugh0006" x="4824" y="2412" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
-<SubTexture name="exe Laugh0007" x="0" y="3216" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
-<SubTexture name="exe Laugh0008" x="804" y="3216" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
-<SubTexture name="exe Laugh0009" x="1608" y="3216" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
-<SubTexture name="exe Laugh0010" x="2412" y="3216" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
-<SubTexture name="exe Left0000" x="3216" y="3216" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
-<SubTexture name="exe Left0001" x="4020" y="3216" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
-<SubTexture name="exe Left0002" x="4824" y="3216" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
-<SubTexture name="exe Left0003" x="0" y="4020" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
-<SubTexture name="exe Left0004" x="804" y="4020" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
-<SubTexture name="exe Left0005" x="1608" y="4020" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
-<SubTexture name="exe Left0006" x="2412" y="4020" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
-<SubTexture name="exe Left0007" x="3216" y="4020" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
-<SubTexture name="exe Left0008" x="4020" y="4020" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
-<SubTexture name="exe Left0009" x="4824" y="4020" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
-<SubTexture name="exe Right0000" x="0" y="4824" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
-<SubTexture name="exe Right0001" x="804" y="4824" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
-<SubTexture name="exe Right0002" x="1608" y="4824" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
-<SubTexture name="exe Right0003" x="2412" y="4824" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
-<SubTexture name="exe Right0004" x="3216" y="4824" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
-<SubTexture name="exe Right0005" x="4020" y="4824" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
-<SubTexture name="exe Right0006" x="4824" y="4824" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
-<SubTexture name="exe Right0007" x="0" y="5628" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
-<SubTexture name="exe Up0000" x="804" y="5628" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
-<SubTexture name="exe Up0001" x="1608" y="5628" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
-<SubTexture name="exe Up0002" x="2412" y="5628" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
-<SubTexture name="exe Up0003" x="3216" y="5628" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
-<SubTexture name="exe Up0004" x="4020" y="5628" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
-<SubTexture name="exe Up0005" x="4824" y="5628" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
-<SubTexture name="exe Up0006" x="0" y="6432" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
-<SubTexture name="exe Up0007" x="804" y="6432" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
-<SubTexture name="exe Up0008" x="1608" y="6432" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
-<SubTexture name="exe Up0009" x="2412" y="6432" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Angry Senpai DOWN NOTE instance 10000" x="0" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai DOWN NOTE instance 10001" x="0" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai DOWN NOTE instance 10002" x="135" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai DOWN NOTE instance 10003" x="135" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai DOWN NOTE instance 10004" x="135" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai DOWN NOTE instance 10005" x="135" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai DOWN NOTE instance 10006" x="135" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai DOWN NOTE instance 10007" x="135" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai DOWN NOTE instance 10008" x="135" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai DOWN NOTE instance 10009" x="135" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai DOWN NOTE instance 10010" x="135" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai DOWN NOTE instance 10011" x="135" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai DOWN NOTE instance 10012" x="135" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai DOWN NOTE instance 10013" x="135" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai Idle instance 10000" x="270" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai Idle instance 10001" x="270" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai Idle instance 10002" x="405" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai Idle instance 10003" x="405" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai Idle instance 10004" x="540" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai Idle instance 10005" x="540" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai Idle instance 10006" x="675" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai Idle instance 10007" x="675" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai Idle instance 10008" x="810" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai Idle instance 10009" x="810" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai Idle instance 10010" x="810" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai Idle instance 10011" x="810" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai Idle instance 10012" x="810" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai Idle instance 10013" x="810" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai LEFT NOTE instance 10000" x="945" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai LEFT NOTE instance 10001" x="945" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai LEFT NOTE instance 10002" x="1080" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai LEFT NOTE instance 10003" x="1080" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai LEFT NOTE instance 10004" x="1080" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai LEFT NOTE instance 10005" x="1080" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai LEFT NOTE instance 10006" x="1080" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai LEFT NOTE instance 10007" x="1080" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai LEFT NOTE instance 10008" x="1080" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai LEFT NOTE instance 10009" x="1080" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai LEFT NOTE instance 10010" x="1080" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai LEFT NOTE instance 10011" x="1080" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai LEFT NOTE instance 10012" x="1080" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai LEFT NOTE instance 10013" x="1080" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai RIGHT NOTE instance 10000" x="1215" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai RIGHT NOTE instance 10001" x="1215" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai RIGHT NOTE instance 10002" x="1350" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai RIGHT NOTE instance 10003" x="1350" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai RIGHT NOTE instance 10004" x="1350" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai RIGHT NOTE instance 10005" x="1350" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai RIGHT NOTE instance 10006" x="1350" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai RIGHT NOTE instance 10007" x="1350" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai RIGHT NOTE instance 10008" x="1350" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai RIGHT NOTE instance 10009" x="1350" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai RIGHT NOTE instance 10010" x="1350" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai RIGHT NOTE instance 10011" x="1350" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai RIGHT NOTE instance 10012" x="1350" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai RIGHT NOTE instance 10013" x="1350" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai UP NOTE instance 10000" x="1485" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai UP NOTE instance 10001" x="1485" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai UP NOTE instance 10002" x="1620" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai UP NOTE instance 10003" x="1620" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai UP NOTE instance 10004" x="1620" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai UP NOTE instance 10005" x="1620" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai UP NOTE instance 10006" x="1620" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai UP NOTE instance 10007" x="1620" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai UP NOTE instance 10008" x="1620" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai UP NOTE instance 10009" x="1620" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai UP NOTE instance 10010" x="1620" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai UP NOTE instance 10011" x="1620" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai UP NOTE instance 10012" x="1620" y="0" width="125" height="164"/>
+	<SubTexture name="Angry Senpai UP NOTE instance 10013" x="1620" y="0" width="125" height="164"/>
+	<SubTexture name="SENPAI DOWN NOTE instance 10000" x="1755" y="0" width="125" height="163"/>
+	<SubTexture name="SENPAI DOWN NOTE instance 10001" x="1755" y="0" width="125" height="163"/>
+	<SubTexture name="SENPAI DOWN NOTE instance 10002" x="1890" y="0" width="125" height="163"/>
+	<SubTexture name="SENPAI DOWN NOTE instance 10003" x="1890" y="0" width="125" height="163"/>
+	<SubTexture name="SENPAI DOWN NOTE instance 10004" x="1890" y="0" width="125" height="163"/>
+	<SubTexture name="SENPAI DOWN NOTE instance 10005" x="1890" y="0" width="125" height="163"/>
+	<SubTexture name="SENPAI DOWN NOTE instance 10006" x="1890" y="0" width="125" height="163"/>
+	<SubTexture name="SENPAI DOWN NOTE instance 10007" x="1890" y="0" width="125" height="163"/>
+	<SubTexture name="SENPAI DOWN NOTE instance 10008" x="1890" y="0" width="125" height="163"/>
+	<SubTexture name="SENPAI DOWN NOTE instance 10009" x="1890" y="0" width="125" height="163"/>
+	<SubTexture name="SENPAI DOWN NOTE instance 10010" x="1890" y="0" width="125" height="163"/>
+	<SubTexture name="SENPAI DOWN NOTE instance 10011" x="1890" y="0" width="125" height="163"/>
+	<SubTexture name="SENPAI DOWN NOTE instance 10012" x="1890" y="0" width="125" height="163"/>
+	<SubTexture name="SENPAI DOWN NOTE instance 10013" x="1890" y="0" width="125" height="163"/>
+	<SubTexture name="SENPAI LEFT NOTE instance 10000" x="0" y="174" width="125" height="163"/>
+	<SubTexture name="SENPAI LEFT NOTE instance 10001" x="0" y="174" width="125" height="163"/>
+	<SubTexture name="SENPAI LEFT NOTE instance 10002" x="135" y="174" width="125" height="163"/>
+	<SubTexture name="SENPAI LEFT NOTE instance 10003" x="135" y="174" width="125" height="163"/>
+	<SubTexture name="SENPAI LEFT NOTE instance 10004" x="135" y="174" width="125" height="163"/>
+	<SubTexture name="SENPAI LEFT NOTE instance 10005" x="135" y="174" width="125" height="163"/>
+	<SubTexture name="SENPAI LEFT NOTE instance 10006" x="135" y="174" width="125" height="163"/>
+	<SubTexture name="SENPAI LEFT NOTE instance 10007" x="135" y="174" width="125" height="163"/>
+	<SubTexture name="SENPAI LEFT NOTE instance 10008" x="135" y="174" width="125" height="163"/>
+	<SubTexture name="SENPAI LEFT NOTE instance 10009" x="135" y="174" width="125" height="163"/>
+	<SubTexture name="SENPAI LEFT NOTE instance 10010" x="135" y="174" width="125" height="163"/>
+	<SubTexture name="SENPAI LEFT NOTE instance 10011" x="135" y="174" width="125" height="163"/>
+	<SubTexture name="SENPAI LEFT NOTE instance 10012" x="135" y="174" width="125" height="163"/>
+	<SubTexture name="SENPAI LEFT NOTE instance 10013" x="135" y="174" width="125" height="163"/>
+	<SubTexture name="SENPAI RIGHT NOTE instance 10000" x="270" y="174" width="125" height="163"/>
+	<SubTexture name="SENPAI RIGHT NOTE instance 10001" x="270" y="174" width="125" height="163"/>
+	<SubTexture name="SENPAI RIGHT NOTE instance 10002" x="405" y="174" width="125" height="163"/>
+	<SubTexture name="SENPAI RIGHT NOTE instance 10003" x="405" y="174" width="125" height="163"/>
+	<SubTexture name="SENPAI RIGHT NOTE instance 10004" x="405" y="174" width="125" height="163"/>
+	<SubTexture name="SENPAI RIGHT NOTE instance 10005" x="405" y="174" width="125" height="163"/>
+	<SubTexture name="SENPAI RIGHT NOTE instance 10006" x="405" y="174" width="125" height="163"/>
+	<SubTexture name="SENPAI RIGHT NOTE instance 10007" x="405" y="174" width="125" height="163"/>
+	<SubTexture name="SENPAI RIGHT NOTE instance 10008" x="405" y="174" width="125" height="163"/>
+	<SubTexture name="SENPAI RIGHT NOTE instance 10009" x="405" y="174" width="125" height="163"/>
+	<SubTexture name="SENPAI RIGHT NOTE instance 10010" x="405" y="174" width="125" height="163"/>
+	<SubTexture name="SENPAI RIGHT NOTE instance 10011" x="405" y="174" width="125" height="163"/>
+	<SubTexture name="SENPAI RIGHT NOTE instance 10012" x="405" y="174" width="125" height="163"/>
+	<SubTexture name="SENPAI RIGHT NOTE instance 10013" x="405" y="174" width="125" height="163"/>
+	<SubTexture name="SENPAI UP NOTE instance 10000" x="540" y="174" width="125" height="163"/>
+	<SubTexture name="SENPAI UP NOTE instance 10001" x="540" y="174" width="125" height="163"/>
+	<SubTexture name="SENPAI UP NOTE instance 10002" x="675" y="174" width="125" height="163"/>
+	<SubTexture name="SENPAI UP NOTE instance 10003" x="675" y="174" width="125" height="163"/>
+	<SubTexture name="SENPAI UP NOTE instance 10004" x="675" y="174" width="125" height="163"/>
+	<SubTexture name="SENPAI UP NOTE instance 10005" x="675" y="174" width="125" height="163"/>
+	<SubTexture name="SENPAI UP NOTE instance 10006" x="675" y="174" width="125" height="163"/>
+	<SubTexture name="SENPAI UP NOTE instance 10007" x="675" y="174" width="125" height="163"/>
+	<SubTexture name="SENPAI UP NOTE instance 10008" x="675" y="174" width="125" height="163"/>
+	<SubTexture name="SENPAI UP NOTE instance 10009" x="675" y="174" width="125" height="163"/>
+	<SubTexture name="SENPAI UP NOTE instance 10010" x="675" y="174" width="125" height="163"/>
+	<SubTexture name="SENPAI UP NOTE instance 10011" x="675" y="174" width="125" height="163"/>
+	<SubTexture name="SENPAI UP NOTE instance 10012" x="675" y="174" width="125" height="163"/>
+	<SubTexture name="SENPAI UP NOTE instance 10013" x="675" y="174" width="125" height="163"/>
+	<SubTexture name="Senpai Idle instance 10000" x="810" y="174" width="124" height="163"/>
+	<SubTexture name="Senpai Idle instance 10001" x="810" y="174" width="124" height="163"/>
+	<SubTexture name="Senpai Idle instance 10002" x="944" y="174" width="124" height="163"/>
+	<SubTexture name="Senpai Idle instance 10003" x="944" y="174" width="124" height="163"/>
+	<SubTexture name="Senpai Idle instance 10004" x="1078" y="174" width="124" height="163"/>
+	<SubTexture name="Senpai Idle instance 10005" x="1078" y="174" width="124" height="163"/>
+	<SubTexture name="Senpai Idle instance 10006" x="1212" y="174" width="124" height="163"/>
+	<SubTexture name="Senpai Idle instance 10007" x="1212" y="174" width="124" height="163"/>
+	<SubTexture name="Senpai Idle instance 10008" x="1346" y="174" width="124" height="163"/>
+	<SubTexture name="Senpai Idle instance 10009" x="1346" y="174" width="124" height="163"/>
+	<SubTexture name="Senpai Idle instance 10010" x="1480" y="174" width="124" height="163"/>
+	<SubTexture name="Senpai Idle instance 10011" x="1480" y="174" width="124" height="163"/>
+	<SubTexture name="Senpai Idle instance 10012" x="1614" y="174" width="124" height="163"/>
+	<SubTexture name="Senpai Idle instance 10013" x="1748" y="174" width="124" height="163"/>
+	<SubTexture name="Senpai Idle instance 10014" x="1882" y="174" width="124" height="163"/>
+	<SubTexture name="Senpai Idle instance 10015" x="0" y="347" width="124" height="163"/>
+	<SubTexture name="Senpai Idle instance 10016" x="134" y="347" width="124" height="163"/>
+	<SubTexture name="Senpai Idle instance 10017" x="268" y="347" width="124" height="163"/>
+	<SubTexture name="Senpai Idle instance 10018" x="402" y="347" width="124" height="163"/>
+	<SubTexture name="Senpai Idle instance 10019" x="536" y="347" width="124" height="163"/>
+	<SubTexture name="Senpai Idle instance 10020" x="670" y="347" width="124" height="163"/>
+	<SubTexture name="Senpai Idle instance 10021" x="804" y="347" width="124" height="163"/>
+	<SubTexture name="Senpai Idle instance 10022" x="938" y="347" width="124" height="163"/>
+	<SubTexture name="Senpai Idle instance 10023" x="1480" y="174" width="124" height="163"/>
+	<SubTexture name="Senpai Idle instance 10024" x="1480" y="174" width="124" height="163"/>
+	<SubTexture name="Senpai Idle instance 10025" x="1614" y="174" width="124" height="163"/>
+	<SubTexture name="Senpai Idle instance 10026" x="1072" y="347" width="124" height="163"/>
+	<SubTexture name="Senpai Idle instance 10027" x="1206" y="347" width="124" height="163"/>
 </TextureAtlas>
