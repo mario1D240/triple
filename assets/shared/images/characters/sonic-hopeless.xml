@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sonic-hopeless.png"><SubTexture name="sonic-hopeless idle0000" x="767" y="0" width="430" height="609" frameX="-327" frameY="-161" frameWidth="1280" frameHeight="960" />
+<SubTexture name="sonic-hopeless idle0001" x="1647" y="606" width="456" height="596" frameX="-307" frameY="-174" frameWidth="1280" frameHeight="960" />
+<SubTexture name="sonic-hopeless idle0002" x="981" y="628" width="431" height="607" frameX="-324" frameY="-163" frameWidth="1280" frameHeight="960" />
+<SubTexture name="sonic-hopeless down0000" x="483" y="1237" width="467" height="584" frameX="-329" frameY="-193" frameWidth="1280" frameHeight="960" />
+<SubTexture name="sonic-hopeless down0001" x="0" y="1237" width="483" height="590" frameX="-326" frameY="-188" frameWidth="1280" frameHeight="960" />
+<SubTexture name="sonic-hopeless up0000" x="0" y="0" width="379" height="628" frameX="-364" frameY="-143" frameWidth="1280" frameHeight="960" />
+<SubTexture name="sonic-hopeless up0001" x="379" y="0" width="388" height="621" frameX="-365" frameY="-150" frameWidth="1280" frameHeight="960" />
+<SubTexture name="sonic-hopeless left0000" x="1197" y="0" width="450" height="609" frameX="-303" frameY="-161" frameWidth="1280" frameHeight="960" />
+<SubTexture name="sonic-hopeless left0001" x="0" y="628" width="421" height="609" frameX="-331" frameY="-161" frameWidth="1280" frameHeight="960" />
+<SubTexture name="sonic-hopeless right0000" x="421" y="628" width="560" height="608" frameX="-383" frameY="-162" frameWidth="1280" frameHeight="960" />
+<SubTexture name="sonic-hopeless right0001" x="1647" y="0" width="570" height="606" frameX="-358" frameY="-164" frameWidth="1280" frameHeight="960" />
+</TextureAtlas>

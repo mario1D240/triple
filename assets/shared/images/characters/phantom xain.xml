@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="phantom xain.png"><SubTexture name="phantom xain idle0000" x="406" y="769" width="406" height="696" frameX="-452" frameY="-156" frameWidth="1280" frameHeight="960" />
+<SubTexture name="phantom xain idle0001" x="0" y="769" width="406" height="700" frameX="-453" frameY="-153" frameWidth="1280" frameHeight="960" />
+<SubTexture name="phantom xain idle0002" x="812" y="769" width="407" height="686" frameX="-463" frameY="-166" frameWidth="1280" frameHeight="960" />
+<SubTexture name="phantom xain idle0003" x="1219" y="769" width="407" height="684" frameX="-464" frameY="-168" frameWidth="1280" frameHeight="960" />
+<SubTexture name="phantom xain down0000" x="2594" y="609" width="535" height="579" frameX="-481" frameY="-279" frameWidth="1280" frameHeight="960" />
+<SubTexture name="phantom xain down0001" x="2594" y="1188" width="534" height="578" frameX="-480" frameY="-280" frameWidth="1280" frameHeight="960" />
+<SubTexture name="phantom xain down0002" x="2594" y="0" width="541" height="609" frameX="-488" frameY="-249" frameWidth="1280" frameHeight="960" />
+<SubTexture name="phantom xain up0000" x="539" y="0" width="539" height="766" frameX="-454" frameY="-87" frameWidth="1280" frameHeight="960" />
+<SubTexture name="phantom xain up0001" x="0" y="0" width="539" height="769" frameX="-453" frameY="-85" frameWidth="1280" frameHeight="960" />
+<SubTexture name="phantom xain up0002" x="1078" y="0" width="552" height="724" frameX="-437" frameY="-129" frameWidth="1280" frameHeight="960" />
+<SubTexture name="phantom xain left0000" x="1821" y="1469" width="669" height="644" frameX="-241" frameY="-217" frameWidth="1280" frameHeight="960" />
+<SubTexture name="phantom xain left0001" x="1149" y="1469" width="672" height="645" frameX="-240" frameY="-216" frameWidth="1280" frameHeight="960" />
+<SubTexture name="phantom xain left0002" x="500" y="1469" width="649" height="653" frameX="-283" frameY="-208" frameWidth="1280" frameHeight="960" />
+<SubTexture name="phantom xain right0000" x="2098" y="0" width="496" height="656" frameX="-568" frameY="-202" frameWidth="1280" frameHeight="960" />
+<SubTexture name="phantom xain right0001" x="0" y="1469" width="500" height="656" frameX="-567" frameY="-202" frameWidth="1280" frameHeight="960" />
+<SubTexture name="phantom xain right0002" x="1630" y="0" width="468" height="660" frameX="-568" frameY="-198" frameWidth="1280" frameHeight="960" />
+</TextureAtlas>

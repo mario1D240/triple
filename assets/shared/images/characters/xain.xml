@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="xain.png"><SubTexture name="xain idle0000" x="440" y="1398" width="442" height="614" frameX="-471" frameY="-174" frameWidth="1280" frameHeight="960" />
+<SubTexture name="xain idle0001" x="0" y="1398" width="440" height="616" frameX="-471" frameY="-173" frameWidth="1280" frameHeight="960" />
+<SubTexture name="xain idle0002" x="0" y="2014" width="475" height="574" frameX="-522" frameY="-214" frameWidth="1280" frameHeight="960" />
+<SubTexture name="xain idle0003" x="2531" y="0" width="460" height="579" frameX="-526" frameY="-210" frameWidth="1280" frameHeight="960" />
+<SubTexture name="xain up0000" x="420" y="0" width="422" height="737" frameX="-534" frameY="-44" frameWidth="1280" frameHeight="960" />
+<SubTexture name="xain up0001" x="0" y="0" width="420" height="742" frameX="-536" frameY="-40" frameWidth="1280" frameHeight="960" />
+<SubTexture name="xain up0002" x="842" y="0" width="411" height="711" frameX="-540" frameY="-69" frameWidth="1280" frameHeight="960" />
+<SubTexture name="xain down0000" x="1483" y="1398" width="631" height="597" frameX="-415" frameY="-191" frameWidth="1280" frameHeight="960" />
+<SubTexture name="xain down0001" x="882" y="1398" width="601" height="613" frameX="-436" frameY="-176" frameWidth="1280" frameHeight="960" />
+<SubTexture name="xain left0000" x="633" y="742" width="584" height="654" frameX="-304" frameY="-172" frameWidth="1280" frameHeight="960" />
+<SubTexture name="xain left0001" x="1253" y="0" width="581" height="656" frameX="-301" frameY="-170" frameWidth="1280" frameHeight="960" />
+<SubTexture name="xain left0002" x="1217" y="742" width="544" height="640" frameX="-384" frameY="-186" frameWidth="1280" frameHeight="960" />
+<SubTexture name="xain right0000" x="1834" y="636" width="691" height="632" frameX="-471" frameY="-165" frameWidth="1280" frameHeight="960" />
+<SubTexture name="xain right0001" x="1834" y="0" width="697" height="636" frameX="-470" frameY="-161" frameWidth="1280" frameHeight="960" />
+<SubTexture name="xain right0002" x="0" y="742" width="633" height="656" frameX="-465" frameY="-141" frameWidth="1280" frameHeight="960" />
+</TextureAtlas>
