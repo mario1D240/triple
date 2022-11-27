@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-63,
+				425
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "yeah",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-169,
+				339
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "tleft miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-240,
+				267
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "tdown miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-295,
+				498
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "tup miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-375,
+				358
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "tright miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-286,
+				381
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "idle",
+			"indices": [],
+			"name": "phantom xain idle"
+		},
+		{
+			"offsets": [
+				-274,
+				382
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "phantom xain down"
+		},
+		{
+			"offsets": [
+				-286,
+				382
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singUP",
+			"indices": [],
+			"name": "phantom xain up"
+		},
+		{
+			"offsets": [
+				-295,
+				390
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "phantom xain left"
+		},
+		{
+			"offsets": [
+				-308,
+				385
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "phantom xain right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/phantom xain",
+	"position": [
+		-770,
+		270
+	],
+	"healthicon": "xain-dying",
+	"flip_x": false,
+	"healthbar_colors": [
+		53,
+		45,
+		92
+	],
+	"camera_position": [
+		130,
+		-370
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

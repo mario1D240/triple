@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-63,
+				425
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "yeah"
+		},
+		{
+			"offsets": [
+				-169,
+				339
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "tleft miss"
+		},
+		{
+			"offsets": [
+				-240,
+				267
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "tdown miss"
+		},
+		{
+			"offsets": [
+				-295,
+				498
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "tup miss"
+		},
+		{
+			"offsets": [
+				-375,
+				358
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "tright miss"
+		},
+		{
+			"offsets": [
+				-286,
+				381
+			],
+			"loop": true,
+			"fps": 5,
+			"anim": "idle",
+			"indices": [],
+			"name": "sonic-hopeless idle"
+		},
+		{
+			"offsets": [
+				-286,
+				381
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sonic-hopeless down"
+		},
+		{
+			"offsets": [
+				-287,
+				379
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sonic-hopeless up"
+		},
+		{
+			"offsets": [
+				-290,
+				381
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sonic-hopeless right"
+		},
+		{
+			"offsets": [
+				-288,
+				381
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sonic-hopeless left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sonic-hopeless",
+	"position": [
+		-600,
+		360
+	],
+	"healthicon": "sonic-hopeless",
+	"flip_x": false,
+	"healthbar_colors": [
+		56,
+		124,
+		189
+	],
+	"camera_position": [
+		-220,
+		-340
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

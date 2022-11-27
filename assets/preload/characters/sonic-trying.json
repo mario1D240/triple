@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-63,
+				425
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "yeah"
+		},
+		{
+			"offsets": [
+				-169,
+				339
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "tleft miss"
+		},
+		{
+			"offsets": [
+				-240,
+				267
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "tdown miss"
+		},
+		{
+			"offsets": [
+				-295,
+				498
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "tup miss"
+		},
+		{
+			"offsets": [
+				-375,
+				358
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "tright miss"
+		},
+		{
+			"offsets": [
+				-286,
+				381
+			],
+			"indices": [],
+			"fps": 10,
+			"anim": "idle",
+			"loop": false,
+			"name": "sonic-trying idle"
+		},
+		{
+			"offsets": [
+				-283,
+				381
+			],
+			"indices": [],
+			"fps": 14,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "sonic-trying down"
+		},
+		{
+			"offsets": [
+				-284,
+				379
+			],
+			"indices": [],
+			"fps": 14,
+			"anim": "singUP",
+			"loop": false,
+			"name": "sonic-trying up"
+		},
+		{
+			"offsets": [
+				-285,
+				382
+			],
+			"indices": [],
+			"fps": 14,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "sonic-trying left"
+		},
+		{
+			"offsets": [
+				-285,
+				381
+			],
+			"indices": [],
+			"fps": 14,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "sonic-trying right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sonic-trying",
+	"position": [
+		-600,
+		360
+	],
+	"healthicon": "sonic-comeback",
+	"flip_x": false,
+	"healthbar_colors": [
+		56,
+		124,
+		189
+	],
+	"camera_position": [
+		80,
+		-420
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
